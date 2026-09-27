@@ -29,8 +29,7 @@
 ### ♡ Mes stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pixie-jpeg&show_icons=true&hide_border=true&bg_color=FFD9DF&title_color=C9243F&icon_color=F0475E&text_color=3B1A24" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixie-jpeg&layout=compact&hide_border=true&bg_color=FFD9DF&title_color=C9243F&text_color=3B1A24" />
+  <img src="https://streak-stats.demolab.com?user=Pixie-jpeg&locale=fr&hide_border=true&background=FFD9DF&ring=F0475E&fire=F0475E&stroke=F0475E&currStreakLabel=C9243F&currStreakNum=3B1A24&sideNums=3B1A24&sideLabels=3B1A24&dates=3B1A24" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0475E,100:FFD9DF&height=100&section=footer" width="100%" />
