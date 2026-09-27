@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD9DF,100:F0475E&height=180&section=header&text=Pixie%20♡&fontColor=3B1A24&fontSize=50&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1200&color=F0475E&center=true&vCenter=true&width=520&lines=Coucou+!+Bienvenue+sur+mon+GitHub+%E2%99%A1;Je+code+des+petits+sites+!;Stud+42+%F0%9F%8F%8A" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1200&color=F0475E&center=true&vCenter=true&width=520&lines=Coucou+!+Bienvenue+sur+mon+GitHub+%E2%99%A1;Je+fais+des+sites+et+des+jeux!;Stud+42+%F0%9F%8F%8A" />
 
 </div>
 
 ### ♡ À propos de moi
 
-- 🌸 Je fais des petits sites et jeux !
+- 🌸 Je fais des sites et jeux !
 - 💻 Étudiante à l'École 42
 - 🎮 J'aime créer des jeux : pixel art, cozy games, visual novels
 - 🗣️ Français, English, Español
